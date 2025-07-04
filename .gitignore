@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+eggs/
+.eggs/
+sdist/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+
+# Translations
+*.mo
+*.pot
+
+# pyenv
+.python-version
+
+# Streamlit
+.streamlit/
+
+# Chroma DB
+chroma_db/chroma.sqlite3
+chroma_db/*/data_level0.bin
+chroma_db/*/header.bin
+chroma_db/*/length.bin
+chroma_db/*/link_lists.bin
+
+# Data
+data/usage_log.csv
+
+# IDE/editor
+.vscode/
+.idea/

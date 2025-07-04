@@ -1,0 +1,32 @@
+.main-header {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #8892b0;
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.description {
+    text-align: center;
+    color: #555;
+    font-size: 1.2rem;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.metric-card {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    padding: 1rem;
+    border-radius: 10px;
+    color: white;
+    text-align: center;
+    margin: 0.5rem 0;
+}
+
+.chat-container {
+    background: #f8f9fa;
+    padding: 1rem;
+    border-radius: 10px;
+    margin: 1rem 0;
+}
